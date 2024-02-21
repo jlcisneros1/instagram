@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    color: white;
+    font-size: ;
+    padding: 10px;
+    font-size: xx-large;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+}
+.icon{
+    width: 24px;
+    height: 24px;
+    background-color: contain;
+    background-repeat: no-repeat;
+}
+.carousel-images{
+    display:flex;
+    width:110px;
+    height:110px;
+    img {
+        border-radius: 50%;
+      }
+}
+
